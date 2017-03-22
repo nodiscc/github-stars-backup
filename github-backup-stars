@@ -2,6 +2,8 @@
 # Description: Backup starred repositories for a Github user, output to JSON and plain text
 # License: MIT
 # Authors: nodiscc <nodiscc@gmail.com>
+# TODO: output as markdown/HTML
+
 set -e
 USAGE="$0 USERNAME"
 
@@ -10,22 +12,26 @@ if [ "$1" == "" ]; then
 	else user="$1"
 fi
 
-i="1"
-response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
-echo "$response" >| starred.json
+function download_starred() {
+	i="1"
+	response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
+	echo "$response" >| starred.json
 
-until [[ "$response" = "[
+	until [[ "$response" = "[
 
 ]" ]]; do
-    i=$(($i+1))
-    response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
-    echo "$response" >> starred.json
-done
+    	i=$(( "$i" +1 ))
+    	response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
+    	echo "$response" >> starred.json
+	done
+}
 
-repos=$(grep full_name starred.json | cut -d"\"" -f4)
+function json_to_txt() {
+	repos=$(grep full_name starred.json | cut -d"\"" -f4)
+	for i in $repos; do
+		echo "https://github.com/$i"
+	done >| starred.txt
+}
 
-for i in $repos; do
-	echo "https://github.com/$i"
-done > starred.txt
-
-### TODO: output as markdown/HTML
+download_starred
+json_to_txt
