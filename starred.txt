@@ -1,3 +1,9 @@
+https://github.com/Oros42/IP-count.ries_interface
+https://github.com/EtixLabs/cameradar
+https://github.com/tobixen/calendar-cli
+https://github.com/pimutils/todoman
+https://github.com/debops/ansible-samba
+https://github.com/mozilla/DeepSpeech
 https://github.com/domchristie/to-markdown
 https://github.com/vector-im/riot-web
 https://github.com/vector-im/riot-android
@@ -558,7 +564,7 @@ https://github.com/YOURLS/YOURLS
 https://github.com/cydrobolt/polr
 https://github.com/ethanal/Nimbus
 https://github.com/ldidry/lstu
-https://github.com/cantino/huginn
+https://github.com/huginn/huginn
 https://github.com/foxmask/django-th
 https://github.com/pwnwiki/pwnwiki.github.io
 https://github.com/pwnwiki/kaliwiki
@@ -665,7 +671,6 @@ https://github.com/Nildeala/Minisch
 https://github.com/themeskult/wp-svbtle
 https://github.com/leonid-shevtsov/ClickableUrls_SublimeText
 https://github.com/jolivares/sublime-zeitgeist-logger
-https://github.com/oneohthree/bash-feed-gen
 https://github.com/frexy/glyph-iconset
 https://github.com/tobbez/youtube-dl-aria
 https://github.com/x89/reddit-resub
