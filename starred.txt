@@ -1,3 +1,18 @@
+https://github.com/kurobeats/fimap
+https://github.com/MrKepzie/Natron
+https://github.com/mbusb/multibootusb
+https://github.com/evilsocket/opensnitch
+https://github.com/packpack/packpack
+https://github.com/endor/kettu
+https://github.com/CardBook/CardBook
+https://github.com/nana-4/Flat-Plat
+https://github.com/arkOScloud/applications
+https://github.com/bfred-it/Awesome-WebExtensions
+https://github.com/mdn/webextensions-examples
+https://github.com/alexadam/save-as-ebook
+https://github.com/JeremySimpson/redditbot
+https://github.com/SmBe19/RedditBots
+https://github.com/MichielDerhaeg/build-linux
 https://github.com/Oros42/IP-count.ries_interface
 https://github.com/EtixLabs/cameradar
 https://github.com/tobixen/calendar-cli
@@ -308,7 +323,7 @@ https://github.com/ThisIsDallas/Simple-Grid
 https://github.com/DMeloni/shaarlo
 https://github.com/SpiderLabs/owasp-modsecurity-crs
 https://github.com/Leftium/todo.html
-https://github.com/VodkaBears/Vide
+https://github.com/vodkabears/Vide
 https://github.com/lalo/readme-fads
 https://github.com/skx/sysadmin-util
 https://github.com/syncthing/syncthing-gtk
