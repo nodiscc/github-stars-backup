@@ -1,3 +1,9 @@
+https://github.com/jedbrown/git-fat
+https://github.com/linuxserver/config
+https://github.com/linuxserver/docker-tt-rss
+https://github.com/ManufacturaInd/shaarli-2004licious-theme
+https://github.com/languagetool-org/languagetool
+https://github.com/privacore/open-source-search-engine
 https://github.com/kurobeats/fimap
 https://github.com/MrKepzie/Natron
 https://github.com/mbusb/multibootusb
@@ -456,7 +462,7 @@ https://github.com/trishume/pro
 https://github.com/shaarli/shaarli-themes
 https://github.com/stephencelis/ghi
 https://github.com/DMeloni/picloud
-https://github.com/Edditoria/markdown_npp
+https://github.com/Edditoria/markdown-plus-plus
 https://github.com/misterair/limonade
 https://github.com/3dfsb-dev/3dfsb
 https://github.com/isohuntto/openbay
