@@ -1,3 +1,6 @@
+https://github.com/aikoncwd/vbs-ad-health-report
+https://github.com/svn2github/WSUSOfflineUpdate
+https://github.com/kalliope-project/kalliope
 https://github.com/jedbrown/git-fat
 https://github.com/linuxserver/config
 https://github.com/linuxserver/docker-tt-rss
