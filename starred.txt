@@ -173,7 +173,7 @@ https://github.com/junyanz/CycleGAN
 https://github.com/formtools/core
 https://github.com/thibmaek/awesome-raspberry-pi
 https://github.com/certbot/certbot
-https://github.com/nachoparker/nextcloudpi
+https://github.com/nextcloud/nextcloudpi
 https://github.com/gkdr/lurch
 https://github.com/RyanNoelk/OpenEats
 https://github.com/nodiscc/ohmpage
@@ -507,7 +507,7 @@ https://github.com/Laverna/laverna
 https://github.com/Matt-Deacalion/Name-of-Thrones
 https://github.com/tldr-pages/tldr
 https://github.com/mil/markdown-tree
-https://github.com/vhf/free-programming-books
+https://github.com/EbookFoundation/free-programming-books
 https://github.com/broncowdd/respawn
 https://github.com/adam-p/markdown-here
 https://github.com/html5cat/redactor-js
