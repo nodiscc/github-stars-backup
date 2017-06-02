@@ -1,3 +1,6 @@
+https://github.com/howsecureismypassword/hsimp
+https://github.com/Sentdex/pygta5
+https://github.com/byt3bl33d3r/DeathStar
 https://github.com/peterrudenko/helio-workstation
 https://github.com/mpv-player/mpv
 https://github.com/eflynch/magnolial
