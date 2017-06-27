@@ -1,3 +1,12 @@
+https://github.com/alexanderepstein/Bash-Snippets
+https://github.com/tenex/opensourcecontributors
+https://github.com/iamcal/oembed
+https://github.com/moooji/embedify
+https://github.com/marcelklehr/floccus
+https://github.com/google/glazier
+https://github.com/freenas/docker-images
+https://github.com/freenas/freenas
+https://github.com/lahwaacz/arch-wiki-docs
 https://github.com/andy-portmen/native-client
 https://github.com/wtay/pipewire
 https://github.com/piskelapp/piskel
@@ -84,7 +93,6 @@ https://github.com/llbit/chunky
 https://github.com/Glitchfiend/BiomesOPlenty
 https://github.com/essentials/Essentials
 https://github.com/sk89q/WorldEdit
-https://github.com/nodiscc/superhosts
 https://github.com/nodiscc/diagona-icons-1.0
 https://github.com/nodiscc/minicons
 https://github.com/nodiscc/linecons
