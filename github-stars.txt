@@ -1,3 +1,17 @@
+https://github.com/rock-hopper/shuriken
+https://github.com/ossfriendly/open-source-supporters
+https://github.com/inconshreveable/ngrok
+https://github.com/clvv/fasd
+https://github.com/wting/autojump
+https://github.com/vigneshwaranr/bd
+https://github.com/0k/shyaml
+https://github.com/martinlindhe/validyaml
+https://github.com/dbohdan/structured-text-tools
+https://github.com/kkismd/pandoc-ymltbl
+https://github.com/chocolateboy/userscripts
+https://github.com/pikzen/Constellation
+https://github.com/warner/magic-wormhole
+https://github.com/AdiChat/Find.Your.Purpose
 https://github.com/pirate/mesh-networking
 https://github.com/joeyh/github-backup
 https://github.com/debian-pi/raspbian-ua-netinst
