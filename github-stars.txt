@@ -1,3 +1,8 @@
+https://github.com/pirate/mesh-networking
+https://github.com/joeyh/github-backup
+https://github.com/debian-pi/raspbian-ua-netinst
+https://github.com/robiso/wondercms
+https://github.com/WikiTeam/wikiteam
 https://github.com/alexanderepstein/Bash-Snippets
 https://github.com/tenex/opensourcecontributors
 https://github.com/iamcal/oembed
@@ -251,7 +256,7 @@ https://github.com/k4m4/kickthemout
 https://github.com/laramies/metagoofil
 https://github.com/petk/awesome-jquery
 https://github.com/shevabam/ezservermonitor-sh
-https://github.com/sblask/firefox-skip-redirect
+https://github.com/sblask/webextension-skip-redirect
 https://github.com/kennethreitz/python-guide
 https://github.com/beefproject/beef
 https://github.com/kkapsner/CanvasBlocker
