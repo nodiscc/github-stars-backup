@@ -1,3 +1,7 @@
+https://github.com/moddevices/swh-lv2
+https://github.com/zynaddsubfx/zynaddsubfx
+https://github.com/KXStudio/Repository
+https://github.com/x42/jack_midi_clock
 https://github.com/falkTX/JackAss
 https://github.com/josephernest/SamplerBox
 https://github.com/hydrogen-music/hydrogen
