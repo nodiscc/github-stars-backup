@@ -1,3 +1,7 @@
+https://github.com/falkTX/JackAss
+https://github.com/josephernest/SamplerBox
+https://github.com/hydrogen-music/hydrogen
+https://github.com/lupoDharkael/flameshot
 https://github.com/rock-hopper/shuriken
 https://github.com/ossfriendly/open-source-supporters
 https://github.com/inconshreveable/ngrok
