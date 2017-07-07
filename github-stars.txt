@@ -1,3 +1,6 @@
+https://github.com/mrdokenny/Cookie-AutoDelete
+https://github.com/nbs-system/naxsi
+https://github.com/worawit/MS17-010
 https://github.com/moddevices/swh-lv2
 https://github.com/zynaddsubfx/zynaddsubfx
 https://github.com/KXStudio/Repository
@@ -490,7 +493,7 @@ https://github.com/rudimeier/bash_ini_parser
 https://github.com/ericprieto/simply-toast
 https://github.com/mike-zarandona/PrettyEmbed.js
 https://github.com/djsmithme/Multi-Column-Select
-https://github.com/mauricesvay/moonmoon
+https://github.com/moonmoon/moonmoon
 https://github.com/jmhobbs/jsTodoTxt
 https://github.com/owncloud/notes
 https://github.com/Zulko/moviepy
