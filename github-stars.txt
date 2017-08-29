@@ -1,3 +1,15 @@
+https://github.com/firehol/iprange
+https://github.com/firehol/firehol
+https://github.com/dev-sec/ansible-nginx-hardening
+https://github.com/colebemis/feather
+https://github.com/pyldap/pyldap
+https://github.com/freeipa/freeipa
+https://github.com/corna/me_cleaner
+https://github.com/evandelisle/showq
+https://github.com/feross/filldisk.com
+https://github.com/kristian-lange/net-glimpse
+https://github.com/hfiref0x/VBoxHardenedLoader
+https://github.com/sbpp/sourcebans-pp
 https://github.com/Rayquaza01/note-taker
 https://github.com/slacka/WoeUSB
 https://github.com/cliffe/SecGen
