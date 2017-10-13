@@ -1,3 +1,10 @@
+https://github.com/zorkian/nagios-api
+https://github.com/nagios-plugins/nagios-plugins
+https://github.com/NagiosEnterprises/nagioscore
+https://github.com/frlen/nagnu
+https://github.com/ltworf/lapdog
+https://github.com/m4ll0k/Spaghetti
+https://github.com/wallarm/awesome-nginx-security
 https://github.com/shaarli/devtools
 https://github.com/roc-project/roc
 https://github.com/Neilpang/acme.sh
@@ -660,7 +667,7 @@ https://github.com/infews/bulldog
 https://github.com/benschwarz/gallery-css
 https://github.com/fredoliveira/commonplace
 https://github.com/posativ/isso
-https://github.com/jlund/streisand
+https://github.com/StreisandEffect/streisand
 https://github.com/tontof/kriss_blog
 https://github.com/mafintosh/torrent-mount
 https://github.com/imgbi/img.bi
