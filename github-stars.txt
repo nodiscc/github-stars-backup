@@ -1,3 +1,13 @@
+https://github.com/RobertBeckebans/gimp-plugin-normalmap
+https://github.com/kmkolasinski/AwesomeBump
+https://github.com/miniflux/picoFeed
+https://github.com/schweikert/fping
+https://github.com/nmap/nmap
+https://github.com/OpenVPN/openvpn
+https://github.com/evilsocket/bettercap
+https://github.com/mitmproxy/mitmproxy
+https://github.com/fail2ban/fail2ban
+https://github.com/OISF/suricata
 https://github.com/zorkian/nagios-api
 https://github.com/nagios-plugins/nagios-plugins
 https://github.com/NagiosEnterprises/nagioscore
