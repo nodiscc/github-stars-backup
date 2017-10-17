@@ -1,3 +1,9 @@
+https://github.com/piranha/cyrax
+https://github.com/piranha/osgameclones
+https://github.com/KnightOS/kernel
+https://github.com/ue4plugins/StreetMap
+https://github.com/domlysz/BlenderGIS
+https://github.com/navit-gps/navit
 https://github.com/RobertBeckebans/gimp-plugin-normalmap
 https://github.com/kmkolasinski/AwesomeBump
 https://github.com/miniflux/picoFeed
