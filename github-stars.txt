@@ -1,3 +1,7 @@
+https://github.com/fontlibrary/fontaine
+https://github.com/jenskutilek/free-fonts
+https://github.com/arturoherrero/command-line-one-liners
+https://github.com/fxn/tkn
 https://github.com/qgis/QGIS
 https://github.com/snwh/suru-icon-theme
 https://github.com/offensive-security/exploit-database
@@ -977,7 +981,6 @@ https://github.com/tibastral/markdownify
 https://github.com/t-d-k/LibreCrypt
 https://github.com/edwardtufte/tufte-css
 https://github.com/arslanbilal/git-cheat-sheet
-https://github.com/jgm/pandoc-templates
 https://github.com/redecentralize/alternative-internet
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/ingydotnet/git-hub
