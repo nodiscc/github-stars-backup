@@ -465,7 +465,6 @@ https://github.com/Ardour/ardour
 https://github.com/torvalds/linux
 https://github.com/wikimedia/mediawiki
 https://github.com/nodiscc/awesome-javascript
-https://github.com/nodiscc/conkyselect
 https://github.com/tomgi/git_stats
 https://github.com/chr15m/gitnonymous
 https://github.com/tj/histo
