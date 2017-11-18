@@ -1,3 +1,11 @@
+https://github.com/konstruktoid/ansible-role-hardening
+https://github.com/konstruktoid/hardening
+https://github.com/pyllyukko/harden.sh
+https://github.com/arbabnazar/ansible-roles
+https://github.com/mirrorer/afl
+https://github.com/TheRook/subbrute
+https://github.com/virtualtam/dotfiles
+https://github.com/hacdias/filemanager
 https://github.com/csu/export-saved-reddit
 https://github.com/musalbas/heartbleed-masstest
 https://github.com/chneukirchen/lr
