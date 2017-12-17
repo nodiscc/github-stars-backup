@@ -1,3 +1,17 @@
+https://github.com/Mr-Un1k0d3r/ThunderShell
+https://github.com/rescatux/rescatux
+https://github.com/rescatux/rescapp
+https://github.com/rescatux/live-build
+https://github.com/ikipatang/shaarli-web-extension
+https://github.com/thumbor/thumbor
+https://github.com/i3visio/osrframework
+https://github.com/gojhonny/InSpy
+https://github.com/janeczku/calibre-web
+https://github.com/scipag/vulscan
+https://github.com/KenjiTakahashi/pacmixer
+https://github.com/Katee/quietnet
+https://github.com/yadutaf/tracepkt
+https://github.com/erdii/firefox-sync-docker
 https://github.com/editorconfig/editorconfig
 https://github.com/zyedidia/micro
 https://github.com/mig/gedit-themes
@@ -69,7 +83,7 @@ https://github.com/VCVRack/Rack
 https://github.com/modlfo/VultModules
 https://github.com/Strum/Strums_Mental_VCV_Modules
 https://github.com/IohannRabeson/VCVRack-Simple
-https://github.com/Phal-anx/MS-Modules
+https://github.com/Phal-anx/MSM
 https://github.com/martin-lueders/ML_modules
 https://github.com/luckyxxl/vcv_luckyxxl
 https://github.com/jeremywen/JW-Modules
@@ -349,7 +363,6 @@ https://github.com/nodiscc/fugue-icons
 https://github.com/nodiscc/falcon-icons
 https://github.com/nodiscc/blawb-icons
 https://github.com/nodiscc/github-stars-backup
-https://github.com/nodiscc/win7autosetup
 https://github.com/nodiscc/toolbox
 https://github.com/sbilly/awesome-security
 https://github.com/brabadu/awesome-fonts
@@ -399,7 +412,7 @@ https://github.com/tobixen/calendar-cli
 https://github.com/pimutils/todoman
 https://github.com/debops/ansible-samba
 https://github.com/mozilla/DeepSpeech
-https://github.com/domchristie/to-markdown
+https://github.com/domchristie/turndown
 https://github.com/vector-im/riot-web
 https://github.com/vector-im/riot-android
 https://github.com/joshkunz/tumblr2rss
@@ -483,7 +496,7 @@ https://github.com/causefx/Organizr
 https://github.com/mescon/Muximux
 https://github.com/metacloud/molecule
 https://github.com/drichard/mindmaps
-https://github.com/dkopecek/usbguard
+https://github.com/USBGuard/usbguard
 https://github.com/LeedRSS/Leed
 https://github.com/pentestmonkey/unix-privesc-check
 https://github.com/P0cL4bs/WiFi-Pumpkin
