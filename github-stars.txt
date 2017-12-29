@@ -1,3 +1,7 @@
+https://github.com/minimaxir/big-list-of-naughty-strings
+https://github.com/hipache/hipache
+https://github.com/agarrharr/awesome-cli-apps
+https://github.com/aleksandar-todorovic/awesome-linux
 https://github.com/chef/inspec
 https://github.com/Mr-Un1k0d3r/ThunderShell
 https://github.com/rescatux/rescatux
@@ -422,7 +426,7 @@ https://github.com/qqTYXn7/browserprint
 https://github.com/opensrc/alsa
 https://github.com/raboof/realtimeconfigquickscan
 https://github.com/kdlucas/byte-unixbench
-https://github.com/ternjs/acorn
+https://github.com/acornjs/acorn
 https://github.com/1N3/Sn1per
 https://github.com/arylatt/awesome-selfhosted-com
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -716,7 +720,7 @@ https://github.com/lalo/readme-fads
 https://github.com/skx/sysadmin-util
 https://github.com/syncthing/syncthing-gtk
 https://github.com/rudimeier/bash_ini_parser
-https://github.com/ericprieto/simply-toast
+https://github.com/ericaprieto/simply-toast
 https://github.com/mike-zarandona/PrettyEmbed.js
 https://github.com/djsmithme/Multi-Column-Select
 https://github.com/moonmoon/moonmoon
@@ -1088,7 +1092,7 @@ https://github.com/PaulBatchelor/Soundpipe
 https://github.com/luqmana/rhythmbox-plugins
 https://github.com/adrianlopezroche/fdupes
 https://github.com/lvwzhen/tools
-https://github.com/lighttroupe/luz
+https://github.com/lighttroupe/luz-gtk
 https://github.com/shime/creative-commons-media
 https://github.com/simonclausen/dnscrypt-autoinstall
 https://github.com/DaveDavenport/rofi
