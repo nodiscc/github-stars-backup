@@ -1,3 +1,17 @@
+https://github.com/RamblingCookieMonster/PowerShell
+https://github.com/lazywinadmin/PowerShell
+https://github.com/BornToBeRoot/PowerShell
+https://github.com/guitarrapc/PowerShellUtil
+https://github.com/Scine/Powershell
+https://github.com/addy-dclxvi/Xfwm4-Theme-Collections
+https://github.com/sipcapture/homer
+https://github.com/hakimel/reveal.js
+https://github.com/burntmacncheese/Powershell-PopupBox
+https://github.com/ionescu007/SpecuCheck
+https://github.com/raphaelsc/Am-I-affected-by-Meltdown
+https://github.com/wildfly/wildfly
+https://github.com/knsv/mermaid
+https://github.com/Junker/purple-xmpp-http-upload
 https://github.com/minimaxir/big-list-of-naughty-strings
 https://github.com/hipache/hipache
 https://github.com/agarrharr/awesome-cli-apps
@@ -219,7 +233,6 @@ https://github.com/csu/habits
 https://github.com/HabitRPG/habitica
 https://github.com/learnbyexample/Command-line-text-processing
 https://github.com/nielsmde/gedit-markdown
-https://github.com/nodiscc/redditPostArchiver
 https://github.com/gravitational/teleport
 https://github.com/backup/backup
 https://github.com/duplicati/duplicati
@@ -310,7 +323,7 @@ https://github.com/thomascube/vcfconvert
 https://github.com/howsecureismypassword/hsimp
 https://github.com/Sentdex/pygta5
 https://github.com/byt3bl33d3r/DeathStar
-https://github.com/peterrudenko/helio-workstation
+https://github.com/helio-fm/helio-workstation
 https://github.com/mpv-player/mpv
 https://github.com/eflynch/magnolial
 https://github.com/scar45/retro-crt-startpage
@@ -335,7 +348,7 @@ https://github.com/yclas/yclas
 https://github.com/wallabag/wallabag
 https://github.com/gitlabhq/gitlabhq
 https://github.com/rtfd/readthedocs.org
-https://github.com/ZoneMinder/ZoneMinder
+https://github.com/ZoneMinder/zoneminder
 https://github.com/inventaire/inventaire
 https://github.com/openfoodfoundation/openfoodnetwork
 https://github.com/PhoenicisOrg/POL-POM-5
@@ -541,7 +554,6 @@ https://github.com/videolan/vlc
 https://github.com/Ardour/ardour
 https://github.com/torvalds/linux
 https://github.com/wikimedia/mediawiki
-https://github.com/nodiscc/awesome-javascript
 https://github.com/tomgi/git_stats
 https://github.com/chr15m/gitnonymous
 https://github.com/tj/histo
@@ -631,7 +643,6 @@ https://github.com/tobidope/ansible-tt-rss
 https://github.com/scrapy/scrapy
 https://github.com/nodiscc/srv01
 https://github.com/curi0usJack/luckystrike
-https://github.com/jedisct1/dnscrypt-proxy
 https://github.com/ikem-krueger/pwf
 https://github.com/stargo/emutrix
 https://github.com/heldersepu/GMapCatcher
@@ -665,7 +676,7 @@ https://github.com/ilektrojohn/creepy
 https://github.com/AlessandroZ/LaZagne
 https://github.com/chokepoint/azazel
 https://github.com/carmaa/inception
-https://github.com/PenturaLabs/Linux_Exploit_Suggester
+https://github.com/InteliSecureLabs/Linux_Exploit_Suggester
 https://github.com/epinna/weevely3
 https://github.com/infobyte/evilgrade
 https://github.com/IanLunn/Hover
@@ -1309,4 +1320,4 @@ https://github.com/zaius/youtube_playlist
 https://github.com/rkokkelk/todo.txt-ext
 https://github.com/bit-team/backintime
 https://github.com/ayyi/samplecat
-https://github.com/piwik/piwik
+https://github.com/matomo-org/matomo
