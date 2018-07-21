@@ -1,3 +1,7 @@
+https://github.com/ansible/awx
+https://github.com/willthames/ansible-lint
+https://github.com/debauchee/barrier
+https://github.com/mvdan/fdroidcl
 https://github.com/sesh/piprot
 https://github.com/picotrading/ansible-sysctl
 https://github.com/bonovoxly/ansible_snippets
@@ -1131,7 +1135,7 @@ https://github.com/mrjovanovic/serious-theme-shaarli
 https://github.com/readerself/readerself
 https://github.com/rstacruz/flatdoc
 https://github.com/Neohapsis/NeoPI
-https://github.com/isagalaev/highlight.js
+https://github.com/highlightjs/highlight.js
 https://github.com/twostairs/paperwork
 https://github.com/BurntSushi/xsv
 https://github.com/pikzen/m3cpy
