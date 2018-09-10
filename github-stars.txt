@@ -1,3 +1,13 @@
+https://github.com/suaefar/ryzen-test
+https://github.com/djselbeck/rapl-read-ryzen
+https://github.com/tdz/memeater
+https://github.com/mrzool/bash-sensible
+https://github.com/kaueraal/run_scaled
+https://github.com/redhat-performance/tuned
+https://github.com/zevv/duc
+https://github.com/brianshumate/ansible-vault
+https://github.com/wazuh/wazuh
+https://github.com/be5invis/Iosevka
 https://github.com/ansible/awx
 https://github.com/willthames/ansible-lint
 https://github.com/debauchee/barrier
@@ -65,7 +75,7 @@ https://github.com/lgandx/Responder
 https://github.com/TiZ-EX1/configs-scripts
 https://github.com/liftoff/GateOne
 https://github.com/mvdan/sh
-https://github.com/vstakhov/rspamd
+https://github.com/rspamd/rspamd
 https://github.com/killswitch-GUI/CobaltStrike-ToolKit
 https://github.com/jessfraz/pastebinit
 https://github.com/sourcegraph/checkup
@@ -113,7 +123,7 @@ https://github.com/rescatux/live-build
 https://github.com/ikipatang/shaarli-web-extension
 https://github.com/thumbor/thumbor
 https://github.com/i3visio/osrframework
-https://github.com/gojhonny/InSpy
+https://github.com/leapsecurity/InSpy
 https://github.com/janeczku/calibre-web
 https://github.com/scipag/vulscan
 https://github.com/KenjiTakahashi/pacmixer
@@ -401,7 +411,7 @@ https://github.com/iiitv/algos
 https://github.com/PCSX2/pcsx2
 https://github.com/karlstav/cava
 https://github.com/philpennock/character
-https://github.com/saenzramiro/rambox
+https://github.com/ramboxapp/community-edition
 https://github.com/JacekPliszka/gedit-folding
 https://github.com/Genbox/HardenIT
 https://github.com/corkami/pics
@@ -506,7 +516,7 @@ https://github.com/arkOScloud/applications
 https://github.com/bfred-it/Awesome-WebExtensions
 https://github.com/mdn/webextensions-examples
 https://github.com/alexadam/save-as-ebook
-https://github.com/JeremySimpson/redditbot
+https://github.com/LunarMist/redditbot
 https://github.com/SmBe19/RedditBots
 https://github.com/MichielDerhaeg/build-linux
 https://github.com/Oros42/IP-count.ries_interface
@@ -820,7 +830,7 @@ https://github.com/Zulko/moviepy
 https://github.com/ajoberstar/todo.txt-html5
 https://github.com/peachananr/flipout_cards
 https://github.com/visionmedia/move.js
-https://github.com/jlmakes/scrollreveal
+https://github.com/scrollreveal/scrollreveal
 https://github.com/QuantumBadger/RedReader
 https://github.com/ahmet2mir/octopress-shaarli
 https://github.com/albertlauncher/albert
@@ -874,7 +884,6 @@ https://github.com/joemccann/dillinger
 https://github.com/chyrp/chyrp
 https://github.com/chriskempson/base16
 https://github.com/walshie4/Ultimate-Blocklist
-https://github.com/ldleman/Leed-market
 https://github.com/alainmeier/cryptonote
 https://github.com/kkga/spacegray
 https://github.com/ziadoz/awesome-php
@@ -1348,7 +1357,7 @@ https://github.com/LibreCAD/LibreCAD
 https://github.com/powderblock/ReddGal
 https://github.com/ItzBlitz98/torrentflix
 https://github.com/0xAX/linux-insides
-https://github.com/hectorm/hBlock
+https://github.com/hectorm/hblock
 https://github.com/junegunn/fzf
 https://github.com/herrbischoff/screaming-liquid-tiger
 https://github.com/librenms/librenms
