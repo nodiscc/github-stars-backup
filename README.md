@@ -3,6 +3,7 @@
 ## TODO
 
  * download github stars for specified user as json
+ * list github gists
  * generate a readme `[user/repo](url) - description LANGUAGE`
  * generate html from readme
  * optional: clone/submodule repositories specified as `user/repo` in the config file
