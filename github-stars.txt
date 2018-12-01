@@ -1,4 +1,23 @@
-https://github.com/sourcegraph/sourcegraph
+https://github.com/PrateekKumarSingh/CheatSheets
+https://github.com/wikijm/PowerShell-AdminScripts
+https://github.com/AutomatedLab/AutomatedLab
+https://github.com/Foodcritic/foodcritic
+https://github.com/Chocobozzz/PeerTube
+https://github.com/keeferrourke/la-capitaine-icon-theme
+https://github.com/komoot/photon
+https://github.com/intika/privafox-firefox
+https://github.com/davestephens/ansible-nas
+https://github.com/owncloud/music
+https://github.com/paulijar/music
+https://github.com/witcher3map/witcher3map
+https://github.com/Erudika/scoold
+https://github.com/ozzi-/consoleSSLlabs
+https://github.com/HASecuritySolutions/VulnWhisperer
+https://github.com/TrullJ/ssllabs
+https://github.com/maxtepkeev/python-redmine
+https://github.com/diyan/pywinrm
+https://github.com/1991viet/ASCII-generator
+https://github.com/MontFerret/ferret
 https://github.com/groupon/ansible-silo
 https://github.com/gak/pycallgraph
 https://github.com/Attendize/Attendize
@@ -12,7 +31,7 @@ https://github.com/hkalant/awesome-edtech-tools
 https://github.com/mercer/awesome-educate
 https://github.com/rasbt/python_reference
 https://github.com/amatas/ansible-pfsense
-https://github.com/mickael-kerjean/nuage
+https://github.com/mickael-kerjean/filestash
 https://github.com/stefanprodan/dockprom
 https://github.com/openshift/openshift-ansible
 https://github.com/projectatomic/atomic
@@ -61,7 +80,7 @@ https://github.com/brianshumate/ansible-vault
 https://github.com/wazuh/wazuh
 https://github.com/be5invis/Iosevka
 https://github.com/ansible/awx
-https://github.com/willthames/ansible-lint
+https://github.com/ansible/ansible-lint
 https://github.com/debauchee/barrier
 https://github.com/mvdan/fdroidcl
 https://github.com/sesh/piprot
@@ -79,7 +98,7 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/creationix/nvm
 https://github.com/nodiscc/distrib-dl
 https://github.com/sismics/docs
-https://github.com/nyl-auster/vim-interactive-cheat-sheet
+https://github.com/yann-yinn/vim-interactive-cheat-sheet
 https://github.com/mrlesmithjr/ansible-ipset
 https://github.com/vkohaupt/vokoscreen
 https://github.com/amadvance/snapraid
@@ -287,7 +306,6 @@ https://github.com/domlysz/BlenderGIS
 https://github.com/navit-gps/navit
 https://github.com/RobertBeckebans/gimp-plugin-normalmap
 https://github.com/kmkolasinski/AwesomeBump
-https://github.com/miniflux/picoFeed
 https://github.com/schweikert/fping
 https://github.com/nmap/nmap
 https://github.com/OpenVPN/openvpn
@@ -352,7 +370,6 @@ https://github.com/lucianodato/noise-repellent
 https://github.com/osxmidi/LinVst
 https://github.com/realgam3/pymultitor
 https://github.com/lightos/credmap
-https://github.com/MalwareReverseBrasil/maltran
 https://github.com/s0md3v/ReconDog
 https://github.com/mozilla/send
 https://github.com/datproject/dat
@@ -655,7 +672,7 @@ https://github.com/amatas/ansible-iptables
 https://github.com/galexrt/ansible-firewall
 https://github.com/diegocr/CleanLinks
 https://github.com/poteto/hiring-without-whiteboards
-https://github.com/metacloud/molecule
+https://github.com/ansible/molecule
 https://github.com/drichard/mindmaps
 https://github.com/USBGuard/usbguard
 https://github.com/LeedRSS/Leed
@@ -887,7 +904,6 @@ https://github.com/QuantumBadger/RedReader
 https://github.com/ahmet2mir/octopress-shaarli
 https://github.com/albertlauncher/albert
 https://github.com/swiperproxy/swiperproxy
-https://github.com/owncloud/music
 https://github.com/wifiphisher/wifiphisher
 https://github.com/gogs/gogs
 https://github.com/owncloud/tasks
@@ -907,7 +923,6 @@ https://github.com/RequestPolicyContinued/subscriptions
 https://github.com/neerajwahi/pairjam
 https://github.com/alexisju/albinomouse-template
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-https://github.com/nodiscc/themes-icons
 https://github.com/strukturag/spreed-webrtc
 https://github.com/venables/safe-target-blank
 https://github.com/jsphsnkr/dotfiles
@@ -1113,7 +1128,6 @@ https://github.com/netdata/netdata
 https://github.com/Noitidart/Chrome-Store-Foxified
 https://github.com/sferik/t
 https://github.com/BookStackApp/BookStack
-https://github.com/kahun/awesome-sysadmin
 https://github.com/jaesivsm/JARR
 https://github.com/YOURLS/YOURLS
 https://github.com/cydrobolt/polr
@@ -1279,7 +1293,7 @@ https://github.com/snwh/faba-mono-icons
 https://github.com/snwh/faba-icon-theme
 https://github.com/snwh/moka-icon-theme
 https://github.com/JohnMcLear/draw
-https://github.com/owncloud/maps
+https://github.com/owncloudarchive/maps
 https://github.com/cytopia/thunar-custom-actions
 https://github.com/MapBBCode/share.mapbbcode.org
 https://github.com/elima/FileTea
