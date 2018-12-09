@@ -1,3 +1,7 @@
+https://github.com/korfuri/awesome-monorepo
+https://github.com/Stouts/Stouts.openvpn
+https://github.com/adithyakhamithkar/ansible-playbooks
+https://github.com/claustromaniac/Compare-UserJS
 https://github.com/virt-manager/virt-manager
 https://github.com/PrateekKumarSingh/CheatSheets
 https://github.com/wikijm/PowerShell-AdminScripts
@@ -6,7 +10,7 @@ https://github.com/Foodcritic/foodcritic
 https://github.com/Chocobozzz/PeerTube
 https://github.com/keeferrourke/la-capitaine-icon-theme
 https://github.com/komoot/photon
-https://github.com/intika/privafox-firefox
+https://github.com/intika/Librefox-Firefox
 https://github.com/davestephens/ansible-nas
 https://github.com/owncloud/music
 https://github.com/paulijar/music
@@ -1042,7 +1046,7 @@ https://github.com/pwnwiki/webappurls
 https://github.com/trebb/pipeglade
 https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 https://github.com/jakubroztocil/cloudtunes
-https://github.com/JexCheng/regulex
+https://github.com/CJex/regulex
 https://github.com/keymon/psdoom-ng
 https://github.com/bmrf/tron
 https://github.com/SSilence/selfoss
