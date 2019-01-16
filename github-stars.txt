@@ -1,3 +1,12 @@
+https://github.com/snipe/snipe-it
+https://github.com/nu11secur1ty/Wiffy
+https://github.com/debops/ansible-preseed
+https://github.com/faheel/GitHub-contributions
+https://github.com/xenia-project/xenia
+https://github.com/schachmat/wego
+https://github.com/chubin/wttr.in
+https://github.com/n8225/Awesome-Selfhosted-Gen
+https://github.com/saimn/sigal
 https://github.com/rodlie/airwave
 https://github.com/Icinga/icinga2
 https://github.com/ecthros/uncaptcha
@@ -275,7 +284,6 @@ https://github.com/rapid7/metasploit-framework
 https://github.com/sqlmapproject/sqlmap
 https://github.com/WordPress/WordPress
 https://github.com/frankyjuang/Octomender
-https://github.com/kryptxy/torrench
 https://github.com/miraheze/puppet
 https://github.com/miraheze/mw-config
 https://github.com/thevivekpandey/syscalls-table-64bit
@@ -365,7 +373,7 @@ https://github.com/davidfokkema/git-rewrite-author
 https://github.com/vmware/clarity
 https://github.com/eon01/DockerCheatSheet
 https://github.com/AliasIO/Wappalyzer
-https://github.com/luongvo209/Awesome-Linux-Software
+https://github.com/luong-komorebi/Awesome-Linux-Software
 https://github.com/cryptocat/cryptocat
 https://github.com/freedomofpress/securedrop
 https://github.com/Dessyreqt/alttprandomizer
@@ -418,7 +426,6 @@ https://github.com/e3rd/zim-plugin-instantsearch
 https://github.com/jaap-karssenberg/zim-wiki
 https://github.com/LittleCodingFox/StaticWiki
 https://github.com/tumic0/GPXSee
-https://github.com/inverse-inc/packetfence
 https://github.com/fboender/ansible-cmdb
 https://github.com/danny0838/webarchiveviewer
 https://github.com/csu/habits
@@ -544,7 +551,7 @@ https://github.com/openfoodfoundation/openfoodnetwork
 https://github.com/PhoenicisOrg/phoenicis
 https://github.com/PhoenicisOrg/scripts
 https://github.com/xwiki/xwiki-platform
-https://github.com/nerzhul/ownCloud-SMS-App
+https://github.com/nerzhul/ncsms-android
 https://github.com/nextcloud/groupfolders
 https://github.com/icewind1991/files_markdown
 https://github.com/nextcloud/external
@@ -912,7 +919,6 @@ https://github.com/DMeloni/shaarlo
 https://github.com/SpiderLabs/owasp-modsecurity-crs
 https://github.com/Leftium/todo.html
 https://github.com/vodkabears/Vide
-https://github.com/lalo/readme-fads
 https://github.com/skx/sysadmin-util
 https://github.com/syncthing/syncthing-gtk
 https://github.com/rudimeier/bash_ini_parser
@@ -1257,7 +1263,7 @@ https://github.com/rszimm/sprinklers_pi
 https://github.com/nexus-js/ui
 https://github.com/vbarbaresi/MetroGit
 https://github.com/rossem/RedditStorage
-https://github.com/nylira/prism-break
+https://github.com/prism-break/prism-break
 https://github.com/oupala/apaxy
 https://github.com/rg3/youtube-dl
 https://github.com/themeskult/wp-svbtle
