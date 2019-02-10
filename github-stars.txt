@@ -1,3 +1,8 @@
+https://github.com/dev-sec/puppet-os-hardening
+https://github.com/dev-sec/chef-os-hardening
+https://github.com/dev-sec/linux-baseline
+https://github.com/Roave/SecurityAdvisories
+https://github.com/FriendsOfPHP/security-advisories
 https://github.com/snipe/snipe-it
 https://github.com/nu11secur1ty/Wiffy
 https://github.com/debops/ansible-preseed
@@ -207,7 +212,6 @@ https://github.com/RamblingCookieMonster/PowerShell
 https://github.com/lazywinadmin/PowerShell
 https://github.com/BornToBeRoot/PowerShell
 https://github.com/guitarrapc/PowerShellUtil
-https://github.com/Scine/Powershell
 https://github.com/addy-dclxvi/xfwm4-theme-collections
 https://github.com/sipcapture/homer
 https://github.com/hakimel/reveal.js
@@ -1174,7 +1178,7 @@ https://github.com/webtorrent/webtorrent-desktop
 https://github.com/openAVproductions/openAV-Luppp
 https://github.com/swh/timemachine
 https://github.com/swh/lv2
-https://github.com/phantom-code/airwave
+https://github.com/psycha0s/airwave
 https://github.com/abique/vst-bridge
 https://github.com/pantherb/setBfree
 https://github.com/moddevices/mod-utilities
@@ -1242,7 +1246,7 @@ https://github.com/readerself/readerself
 https://github.com/rstacruz/flatdoc
 https://github.com/Neohapsis/NeoPI
 https://github.com/highlightjs/highlight.js
-https://github.com/twostairs/paperwork
+https://github.com/paperwork/paperwork
 https://github.com/BurntSushi/xsv
 https://github.com/pikzen/m3cpy
 https://github.com/StarshipEngineer/OpenVPN-Setup
@@ -1429,7 +1433,7 @@ https://github.com/ansible/ansible
 https://github.com/ncrocfer/clf
 https://github.com/JNRowe-retired/winwrangler
 https://github.com/gleitz/howdoi
-https://github.com/chrisallenlane/cheat
+https://github.com/cheat/cheat
 https://github.com/nk412/optparse
 https://github.com/alebcay/awesome-shell
 https://github.com/aboudou/picheckvoltage
