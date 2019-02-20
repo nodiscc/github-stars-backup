@@ -1379,7 +1379,7 @@ https://github.com/sayakb/sticky-notes
 https://github.com/retext-project/retext
 https://github.com/solusipse/ureq
 https://github.com/containous/traefik
-https://github.com/gnome-mpv/gnome-mpv
+https://github.com/celluloid-player/celluloid
 https://github.com/Fauntleroy/relay.js
 https://github.com/ether/etherpad-lite-jquery-plugin
 https://github.com/ArthurHoaro/favicon
@@ -1498,12 +1498,3 @@ https://github.com/webtorrent/instant.io
 https://github.com/sovereign/sovereign
 https://github.com/RequestPolicyContinued/RequestPolicyContinued.github.io
 https://github.com/Kickball/awesome-selfhosted
-https://github.com/RequestPolicyContinued/requestpolicy
-https://github.com/steeve/france.code-civil
-https://github.com/shaarli/Shaarli
-https://github.com/Sonerezh/sonerezh
-https://github.com/zaius/youtube_playlist
-https://github.com/rkokkelk/todo.txt-ext
-https://github.com/bit-team/backintime
-https://github.com/ayyi/samplecat
-https://github.com/matomo-org/matomo
