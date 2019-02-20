@@ -1,3 +1,4 @@
+https://github.com/the-cavalry/light-locker
 https://github.com/BurntSushi/ripgrep
 https://github.com/geerlingguy/ansible-role-docker
 https://github.com/trimstray/nginx-quick-reference
