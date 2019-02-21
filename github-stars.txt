@@ -1,3 +1,5 @@
+https://github.com/autonomy/talos
+https://github.com/jaagr/polybar
 https://github.com/the-cavalry/light-locker
 https://github.com/BurntSushi/ripgrep
 https://github.com/geerlingguy/ansible-role-docker
@@ -1498,3 +1500,12 @@ https://github.com/webtorrent/instant.io
 https://github.com/sovereign/sovereign
 https://github.com/RequestPolicyContinued/RequestPolicyContinued.github.io
 https://github.com/Kickball/awesome-selfhosted
+https://github.com/RequestPolicyContinued/requestpolicy
+https://github.com/steeve/france.code-civil
+https://github.com/shaarli/Shaarli
+https://github.com/Sonerezh/sonerezh
+https://github.com/zaius/youtube_playlist
+https://github.com/rkokkelk/todo.txt-ext
+https://github.com/bit-team/backintime
+https://github.com/ayyi/samplecat
+https://github.com/matomo-org/matomo
