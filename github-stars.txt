@@ -1,3 +1,4 @@
+https://github.com/ArcticaProject/arctica-greeter
 https://github.com/tkashkin/GameHub
 https://github.com/mauricesvay/Routino
 https://github.com/mapnik/mapnik
@@ -281,7 +282,7 @@ https://github.com/virtualtam/dotfiles
 https://github.com/filebrowser/filebrowser
 https://github.com/csu/export-saved-reddit
 https://github.com/musalbas/heartbleed-masstest
-https://github.com/chneukirchen/lr
+https://github.com/leahneukirchen/lr
 https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal
 https://github.com/rickysarraf/apt-offline
 https://github.com/mschwager/fierce
@@ -433,7 +434,7 @@ https://github.com/orionmelt/sherlock
 https://github.com/prahladyeri/hotspotd
 https://github.com/tokland/youtube-upload
 https://github.com/amietn/vcsi
-https://github.com/ludios/grab-site
+https://github.com/ArchiveTeam/grab-site
 https://github.com/kimbauters/ZIMply
 https://github.com/Xunius/markdown2zim
 https://github.com/e3rd/zim-plugin-instantsearch
