@@ -1,3 +1,4 @@
+https://github.com/trimstray/test-your-sysadmin-skills
 https://github.com/ArcticaProject/arctica-greeter
 https://github.com/tkashkin/GameHub
 https://github.com/mauricesvay/Routino
