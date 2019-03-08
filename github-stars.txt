@@ -1,3 +1,8 @@
+https://github.com/salvozappa/mapkeep
+https://github.com/eerotal/LibreSignage
+https://github.com/jekyll/jekyll
+https://github.com/bryanbraun/poor-mans-styleguide
+https://github.com/brianvoe/gofakeit
 https://github.com/faiproject/fai
 https://github.com/bitsadmin/wesng
 https://github.com/trimstray/test-your-sysadmin-skills
