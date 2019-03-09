@@ -1,3 +1,4 @@
+https://github.com/Sangeppato/wine-vst
 https://github.com/salvozappa/mapkeep
 https://github.com/eerotal/LibreSignage
 https://github.com/jekyll/jekyll
