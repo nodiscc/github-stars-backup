@@ -30,7 +30,7 @@ https://github.com/IvanFon/xinput-gui
 https://github.com/axcore/tartube
 https://github.com/novnc/noVNC
 https://github.com/rsyslog/rsyslog-doc
-https://github.com/subfinder/subfinder
+https://github.com/projectdiscovery/subfinder
 https://github.com/Librelancer/Librelancer
 https://github.com/jekor/gressgraph
 https://github.com/oracle/graal
