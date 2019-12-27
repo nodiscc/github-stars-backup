@@ -1,3 +1,4 @@
+https://github.com/Spearfoot/disk-burnin-and-testing
 https://github.com/shellinabox/shellinabox
 https://github.com/geerlingguy/ansible-role-certbot
 https://github.com/ltGuillaume/FeedMei
@@ -541,7 +542,7 @@ https://github.com/sensu/uchiwa
 https://github.com/davidfokkema/git-rewrite-author
 https://github.com/vmware/clarity
 https://github.com/eon01/DockerCheatSheet
-https://github.com/AliasIO/Wappalyzer
+https://github.com/AliasIO/wappalyzer
 https://github.com/luong-komorebi/Awesome-Linux-Software
 https://github.com/cryptocat/cryptocat
 https://github.com/freedomofpress/securedrop
