@@ -1,3 +1,8 @@
+https://github.com/isacikgoz/gitbatch
+https://github.com/skeeto/endlessh
+https://github.com/arzzen/git-quick-stats
+https://github.com/resurrecting-open-source-projects/dnsmap
+https://github.com/DT42/BerryNet
 https://github.com/Spearfoot/disk-burnin-and-testing
 https://github.com/shellinabox/shellinabox
 https://github.com/geerlingguy/ansible-role-certbot
