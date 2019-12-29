@@ -1,3 +1,5 @@
+https://github.com/lancachenet/generic
+https://github.com/osquery/osquery
 https://github.com/isacikgoz/gitbatch
 https://github.com/skeeto/endlessh
 https://github.com/arzzen/git-quick-stats
