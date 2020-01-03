@@ -1,3 +1,8 @@
+https://github.com/addy-dclxvi/gtk-theme-collections
+https://github.com/addy-dclxvi/conky-theme-collections
+https://github.com/grassmunk/Chicago95
+https://github.com/addy-dclxvi/tint2-theme-collections
+https://github.com/PyGithub/PyGithub
 https://github.com/lancachenet/generic
 https://github.com/osquery/osquery
 https://github.com/isacikgoz/gitbatch
