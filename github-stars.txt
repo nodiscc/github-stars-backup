@@ -1,3 +1,4 @@
+https://github.com/gkbrk/slowloris
 https://github.com/addy-dclxvi/gtk-theme-collections
 https://github.com/addy-dclxvi/conky-theme-collections
 https://github.com/grassmunk/Chicago95
