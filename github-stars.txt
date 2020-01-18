@@ -1012,7 +1012,7 @@ https://github.com/skottler/ttrss-ansible
 https://github.com/marklee77/ansible-role-ttrss
 https://github.com/tobidope/ansible-tt-rss
 https://github.com/scrapy/scrapy
-https://github.com/nodiscc/srv01
+https://github.com/nodiscc/xsrv
 https://github.com/curi0usJack/luckystrike
 https://github.com/ikem-krueger/pwf
 https://github.com/stargo/emutrix
