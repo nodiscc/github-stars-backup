@@ -1,3 +1,5 @@
+https://github.com/ansible/ansible-runner
+https://github.com/MichaelMure/git-bug
 https://github.com/gkbrk/slowloris
 https://github.com/addy-dclxvi/gtk-theme-collections
 https://github.com/addy-dclxvi/conky-theme-collections
@@ -885,7 +887,7 @@ https://github.com/amatas/ansible-iptables
 https://github.com/galexrt/ansible-firewall
 https://github.com/diegocr/CleanLinks
 https://github.com/poteto/hiring-without-whiteboards
-https://github.com/ansible/molecule
+https://github.com/ansible-community/molecule
 https://github.com/drichard/mindmaps
 https://github.com/USBGuard/usbguard
 https://github.com/LeedRSS/Leed
@@ -1220,7 +1222,6 @@ https://github.com/chitsaou/copy-as-markdown
 https://github.com/rauchg/spot
 https://github.com/mafrosis/mp3-scripts
 https://github.com/trishume/pro
-https://github.com/shaarli/shaarli-themes
 https://github.com/stephencelis/ghi
 https://github.com/DMeloni/picloud
 https://github.com/Edditoria/markdown-plus-plus
