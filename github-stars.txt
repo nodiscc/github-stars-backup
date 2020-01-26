@@ -1,3 +1,4 @@
+https://github.com/mozilla/observatory-cli
 https://github.com/ansible/ansible-runner
 https://github.com/MichaelMure/git-bug
 https://github.com/gkbrk/slowloris
