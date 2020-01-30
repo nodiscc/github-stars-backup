@@ -541,7 +541,7 @@ https://github.com/m4ll0k/WAScan
 https://github.com/wallarm/awesome-nginx-security
 https://github.com/shaarli/devtools
 https://github.com/roc-project/roc
-https://github.com/Neilpang/acme.sh
+https://github.com/acmesh-official/acme.sh
 https://github.com/geany/geany
 https://github.com/scheibler/khard
 https://github.com/Philip-Scott/Spice-up
