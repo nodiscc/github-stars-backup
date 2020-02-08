@@ -1,3 +1,5 @@
+https://github.com/squizlabs/PHP_CodeSniffer
+https://github.com/EionRobb/skype4pidgin
 https://github.com/mozilla/observatory-cli
 https://github.com/ansible/ansible-runner
 https://github.com/MichaelMure/git-bug
@@ -350,7 +352,7 @@ https://github.com/tribut/ttrss-videoframes
 https://github.com/progmaticltd/homebox
 https://github.com/lxc/distrobuilder
 https://github.com/serhii-londar/open-source-mac-os-apps
-https://github.com/nbs-system/snuffleupagus
+https://github.com/jvoisin/snuffleupagus
 https://github.com/speed47/spectre-meltdown-checker
 https://github.com/hdavid/Launchpad95
 https://github.com/devstructure/blueprint
@@ -828,7 +830,7 @@ https://github.com/collinbarrett/FilterLists
 https://github.com/blablacar/ggn
 https://github.com/appc/spec
 https://github.com/blablacar/dgr
-https://github.com/nbs-system/php-malware-finder
+https://github.com/jvoisin/php-malware-finder
 https://github.com/ghaff/podcast-python
 https://github.com/jsxc/jsxc
 https://github.com/boramalper/magnetico
