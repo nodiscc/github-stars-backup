@@ -1,3 +1,5 @@
+https://github.com/sdushantha/fontpreview
+https://github.com/tremby/imgur.sh
 https://github.com/squizlabs/PHP_CodeSniffer
 https://github.com/EionRobb/skype4pidgin
 https://github.com/mozilla/observatory-cli
@@ -684,7 +686,6 @@ https://github.com/mariocesar/pomodoro-elementary
 https://github.com/DreamDevel/eRadio
 https://github.com/agronick/Relay
 https://github.com/mank319/elementaryPlus
-https://github.com/cybre/imgur-contract
 https://github.com/cybre/hastebin-contract
 https://github.com/I-hate-farms/elementary-tweaks
 https://github.com/Philip-Scott/Notes-up
@@ -996,7 +997,6 @@ https://github.com/dkhamsing/awesome_bot
 https://github.com/offtools/osc-mediaplayer
 https://github.com/offtools/olaosc
 https://github.com/offtools/BLive
-https://github.com/ShareX/ShareX
 https://github.com/firefly-iii/firefly-iii
 https://github.com/catarse/catarse
 https://github.com/ziahamza/webui-aria2
@@ -1332,7 +1332,6 @@ https://github.com/WPaceley/Classical-Alarm-Clock
 https://github.com/sobolevn/awesome-cryptography
 https://github.com/jsphsnkr/colours
 https://github.com/svbtext/dotfiles
-https://github.com/szero/imgur-album-downloader
 https://github.com/horst3180/arc-firefox-theme
 https://github.com/horst3180/vertex-icons
 https://github.com/horst3180/vertex-theme
