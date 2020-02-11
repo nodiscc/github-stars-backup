@@ -1,3 +1,7 @@
+https://github.com/hawkeyesec/scanner-cli
+https://github.com/felipec/git-remote-bzr
+https://github.com/sebastianbergmann/phpcov
+https://github.com/sebastianbergmann/phpcpd
 https://github.com/sdushantha/fontpreview
 https://github.com/tremby/imgur.sh
 https://github.com/squizlabs/PHP_CodeSniffer
