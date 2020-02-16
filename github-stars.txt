@@ -1,3 +1,4 @@
+https://github.com/tkashkin/GameHub
 https://github.com/hawkeyesec/scanner-cli
 https://github.com/felipec/git-remote-bzr
 https://github.com/sebastianbergmann/phpcov
@@ -179,7 +180,6 @@ https://github.com/faiproject/fai
 https://github.com/bitsadmin/wesng
 https://github.com/trimstray/test-your-sysadmin-skills
 https://github.com/ArcticaProject/arctica-greeter
-https://github.com/tkashkin/GameHub
 https://github.com/mauricesvay/Routino
 https://github.com/mapnik/mapnik
 https://github.com/minetest-tools/mcimport
