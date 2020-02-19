@@ -1117,7 +1117,7 @@ https://github.com/Zulko/moviepy
 https://github.com/ajoberstar/todo.txt-html5
 https://github.com/peachananr/flipout_cards
 https://github.com/visionmedia/move.js
-https://github.com/scrollreveal/scrollreveal
+https://github.com/jlmakes/scrollreveal
 https://github.com/QuantumBadger/RedReader
 https://github.com/ahmet2mir/octopress-shaarli
 https://github.com/albertlauncher/albert
