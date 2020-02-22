@@ -1,3 +1,4 @@
+https://github.com/building5/ansible-vault-tools
 https://github.com/tkashkin/GameHub
 https://github.com/hawkeyesec/scanner-cli
 https://github.com/felipec/git-remote-bzr
