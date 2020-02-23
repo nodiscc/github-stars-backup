@@ -1,3 +1,5 @@
+https://github.com/eliasgranderubio/dagda
+https://github.com/banyanops/collector
 https://github.com/building5/ansible-vault-tools
 https://github.com/tkashkin/GameHub
 https://github.com/hawkeyesec/scanner-cli
