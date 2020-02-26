@@ -330,7 +330,6 @@ https://github.com/lamby/dotfiles
 https://github.com/dev-sec/ansible-windows-hardening
 https://github.com/trekhleb/javascript-algorithms
 https://github.com/nvm-sh/nvm
-https://github.com/nodiscc/distrib-dl
 https://github.com/sismics/docs
 https://github.com/yann-yinn/vim-interactive-cheat-sheet
 https://github.com/mrlesmithjr/ansible-ipset
@@ -763,18 +762,6 @@ https://github.com/llbit/chunky
 https://github.com/Glitchfiend/BiomesOPlenty
 https://github.com/essentials/Essentials
 https://github.com/EngineHub/WorldEdit
-https://github.com/nodiscc/diagona-icons-1.0
-https://github.com/nodiscc/minicons
-https://github.com/nodiscc/linecons
-https://github.com/nodiscc/silk-icons
-https://github.com/nodiscc/linea-icons
-https://github.com/nodiscc/hexagrama-icons
-https://github.com/nodiscc/project-icons
-https://github.com/nodiscc/fugue-icons
-https://github.com/nodiscc/falcon-icons
-https://github.com/nodiscc/blawb-icons
-https://github.com/nodiscc/github-stars-backup
-https://github.com/nodiscc/toolbox
 https://github.com/sbilly/awesome-security
 https://github.com/brabadu/awesome-fonts
 https://github.com/Calinou/godot-snippets
@@ -944,11 +931,9 @@ https://github.com/tj/histo
 https://github.com/github/hub
 https://github.com/rhythmus/markdown-resources
 https://github.com/reinderien/mimic
-https://github.com/nodiscc/musical-artifacts-data
 https://github.com/drakmail/snapfly
 https://github.com/seenaburns/stag
 https://github.com/mwunsch/tumblr
-https://github.com/nodiscc/user.js
 https://github.com/thearn/webcam-pulse-detector
 https://github.com/foundation/foundation-sites
 https://github.com/Song-Li/cross_browser
@@ -1024,7 +1009,6 @@ https://github.com/skottler/ttrss-ansible
 https://github.com/marklee77/ansible-role-ttrss
 https://github.com/tobidope/ansible-tt-rss
 https://github.com/scrapy/scrapy
-https://github.com/nodiscc/xsrv
 https://github.com/curi0usJack/luckystrike
 https://github.com/ikem-krueger/pwf
 https://github.com/stargo/emutrix
@@ -1037,11 +1021,9 @@ https://github.com/tontof/kriss_link
 https://github.com/tontof/kriss_php5
 https://github.com/tontof/kriss_dwld
 https://github.com/tontof/kriss_feed
-https://github.com/nodiscc/dlc
 https://github.com/osune/MidiJoystick
 https://github.com/wereHamster/transmission
 https://github.com/umap-project/umap
-https://github.com/nodiscc/fonts
 https://github.com/fmod/ue4integration
 https://github.com/alixaxel/halBox
 https://github.com/iphelix/pack
@@ -1516,7 +1498,6 @@ https://github.com/owncloudarchive/maps
 https://github.com/cytopia/thunar-custom-actions
 https://github.com/MapBBCode/share.mapbbcode.org
 https://github.com/elima/FileTea
-https://github.com/nodiscc/awesome-linuxaudio
 https://github.com/ssj71/reMID.lv2
 https://github.com/dev-sec/ansible-mysql-hardening
 https://github.com/dev-sec/ansible-os-hardening
