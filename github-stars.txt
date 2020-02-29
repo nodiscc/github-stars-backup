@@ -1,3 +1,4 @@
+https://github.com/KanoComputing/kano-repository-manager
 https://github.com/eliasgranderubio/dagda
 https://github.com/banyanops/collector
 https://github.com/building5/ansible-vault-tools
@@ -149,7 +150,7 @@ https://github.com/prometheus/nagios_plugins
 https://github.com/prometheus/prom2json
 https://github.com/prometheus/snmp_exporter
 https://github.com/prometheus/graphite_exporter
-https://github.com/prometheus/tsdb
+https://github.com/prometheus-junkyard/tsdb
 https://github.com/prometheus/node_exporter
 https://github.com/prometheus/alertmanager
 https://github.com/prometheus/prometheus
