@@ -1,15 +1,32 @@
 #!/usr/bin/python3
 import os
+import sys
 import github
 import json
 import logging
+
+usage = 'USAGE: {} USERNAME OUTPUT_FILE'.format(sys.argv[0])
+
+try:
+    username = sys.argv[1]
+except IndexError:
+    logging.error("No username specified")
+    print(usage)
+    exit(1)
+
+try:
+    outfile = sys.argv[2]
+except IndexError:
+    logging.error("No output file specified")
+    print(usage)
+    exit(1)
 
 g = github.Github(os.environ['GITHUB_ACCESS_TOKEN'])
 logging.basicConfig(format='[%(levelname)s]: %(message)s',level=logging.INFO)
 stars_backup = {}
 index = 1
 
-for starred_repo in g.get_user().get_starred():
+for starred_repo in g.get_user(username).get_starred():
     logging.info(starred_repo)
     repo = {}
 
@@ -23,7 +40,6 @@ for starred_repo in g.get_user().get_starred():
         logging.warning('something went wrong. {}'.format(str(e)))
         continue
 
-
     repo['description'] = repo_data.description
     repo['url'] = 'https://github.com/{}'.format(repo_data.full_name)
     repo['homepage'] = repo_data.homepage
@@ -34,5 +50,5 @@ for starred_repo in g.get_user().get_starred():
     index += 1
     stars_json = json.dumps(stars_backup,indent=2)
 
-with open('github-stars-backup.json', 'w+') as outfile:
+with open(outfile, 'w+') as outfile:
     outfile.write(stars_json)
