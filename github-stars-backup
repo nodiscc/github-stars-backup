@@ -2,36 +2,57 @@
 # Description: Backup starred repositories for a Github user, output to JSON and plain text
 # License: WTFPL
 # Authors: nodiscc <nodiscc@gmail.com>
-# TODO: output as markdown/HTML
+set -o errexit
+set -o nounset
 
-set -e
-USAGE="$0 USERNAME"
+usage="$0 USERNAME OUTPUT_FILE"
+username=${1:-}
+outfile=${2:-}
+tmpfile="github-stars.json"
 
-if [ "$1" == "" ]; then
-	echo -e "ERROR: no username provided.\nUSAGE: $USAGE"; exit 1
-	else user="$1"
-fi
+##############################
 
+# download starred repositories as JSON from the API, unauthenticated
+# note that no error will be thrown if you exceed the API rate limit, but the results will be wrong
 function download_starred() {
 	i="1"
-	response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
-	echo "$response" >| github-stars.json
+	response=$(curl "https://api.github.com/users/$username/starred?per_page=100\&page=$i")
+	echo "$response" >| "$tmpfile"
 
 	until [[ "$response" = "[
 
 ]" ]]; do
     	i=$(( "$i" +1 ))
-    	response=$(curl https://api.github.com/users/"$user"/starred?per_page=100\&page=$i)
-    	echo "$response" >> github-stars.json
+    	response=$(curl "https://api.github.com/users/$username/starred?per_page=100\&page=$i")
+    	echo "$response" >> "$tmpfile"
 	done
 }
 
 function json_to_txt() {
-	repos=$(grep full_name github-stars.json | cut -d"\"" -f4)
+	repos=$(grep full_name "$tmpfile" | cut -d"\"" -f4)
 	for i in $repos; do
 		echo "https://github.com/$i"
-	done >| github-stars.txt
+	done >| "$outfile"
 }
 
-download_starred
-json_to_txt
+function _main() {
+	echo $tmpfile
+	if [[ -z "$username" ]]; then
+		echo -e "ERROR: no username provided"
+		echo -e "USAGE: $usage"
+		exit 1
+	fi
+
+	if [[ -z "$outfile" ]]; then
+		echo -e "ERROR: no output file provided"
+		echo -e "USAGE: $usage"
+		exit 1
+	fi
+
+	download_starred
+	json_to_txt
+}
+
+############################
+
+_main
