@@ -69,3 +69,7 @@ https://github.com/banyanops/collector
 https://github.com/building5/ansible-vault-tools
 ...
 ```
+
+### License
+
+[MIT](LICENSE)
