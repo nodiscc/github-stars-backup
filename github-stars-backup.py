@@ -9,7 +9,7 @@ import github
 import json
 import logging
 
-usage = 'USAGE: {} USERNAME OUTPUT_FILE'.format(sys.argv[0])
+usage = 'USAGE: {} USERNAME OUTPUT_FILE\nGITHUB_ACCESS_TOKEN must be declared in the environment, see https://github.com/settings/tokens'.format(sys.argv[0])
 
 try:
     username = sys.argv[1]
@@ -17,6 +17,10 @@ except IndexError:
     logging.error("No username specified")
     print(usage)
     exit(1)
+
+if username == "--help":
+    print(usage)
+    exit(0)
 
 try:
     outfile = sys.argv[2]
