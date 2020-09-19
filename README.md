@@ -1,6 +1,6 @@
 # github-stars-backup
 
-Backup a list of github starred repositories for a user.
+Backup a list of github starred repositories for the specified user.
 
 ### Python version
 
@@ -9,19 +9,32 @@ Backup a list of github starred repositories for a user.
 - It outputs a JSON file containing the name, description, url, homepage, language number of open issues/stars of each starred repository
 - The rate limit for authenticated API requests is 5000 requests/hour.
 
+#### Installation
+
 ```bash
 # install requirements in a virtualenv
-$ python3 -m venv ~/.local/venv
-$ source ~/.local/venv/bin/activate
-$ pip3 install PyGithub
+python3 -m venv ~/.local/venv
+source ~/.local/venv/bin/activate
+pip3 install PyGithub
 
-USAGE: ./github-stars-backup.py USERNAME OUTPUT_FILE
-
-$ export GITHUB_ACCESS_TOKEN=aaaabbbbccccddddeeefffggghhhiijjj
-$ ./github-stars-backup.py nodiscc github-stars-backup.json
-$ cat github-stars-backup.json
+# clone the repository
+git clone https://gitlab.com/nodiscc/github-stars-backup
+cd github-stars-backup
 ```
+
+#### Usage
+
+```bash
+./github-stars-backup.py --help
+  USAGE: ./github-stars-backup.py USERNAME OUTPUT_FILE
+  GITHUB_ACCESS_TOKEN must be declared in the environment, see https://github.com/settings/tokens
+
+export GITHUB_ACCESS_TOKEN=aaaabbbbccccddddeeefffggghhhiijjj
+./github-stars-backup.py nodiscc github-stars-backup.json
+```
+
 ```json
+$ cat github-stars-backup.json
 {
   "ayyi/samplecat": {
     "name": "ayyi/samplecat",
