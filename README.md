@@ -25,6 +25,9 @@ cd github-stars-backup
 #### Usage
 
 ```bash
+# all commands must be run from the virtualenv
+source ~/.local/venv/bin/activate
+
 ./github-stars-backup.py --help
   USAGE: ./github-stars-backup.py USERNAME OUTPUT_FILE
   GITHUB_ACCESS_TOKEN must be declared in the environment, see https://github.com/settings/tokens
