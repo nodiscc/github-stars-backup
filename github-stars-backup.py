@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # Description: download Github starred repositories for a user
 # Outputs a JSON file containing name, description, url, homepage, language, number of open issues/stars for each starred repository
 # A Personal Access Token must be available in the GITHUB_ACCESS_TOKEN environment variable
