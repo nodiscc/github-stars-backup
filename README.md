@@ -4,7 +4,9 @@ Backup a list of github starred repositories for the specified user.
 
 ### Python version
 
-- The python version requires that you generate a [Personal Access Token](https://github.com/settings/tokens) with the scope `read:user`
+- The python version requires that you generate a [Personal Access Token](https://github.com/settings/tokens) using one of the following methods:
+  - Create a "classic" token with the scope `read:user`.
+  - Or, use a new "fine-grained token" with the `Account Permissions` -> `Starring` -> `read-only` permission.
 - The token must be exported to the `GITHUB_ACCESS_TOKEN` environment variable
 - It outputs a JSON file containing the name, description, url, homepage, language number of open issues/stars of each starred repository
 - The rate limit for authenticated API requests is 5000 requests/hour.
